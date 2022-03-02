@@ -18,5 +18,5 @@ design:
 
 <br>
 
-hWelcome to the Biophysics Research Group at the [University of Pretoria](https://www.up.ac.za). 
+Welcome to the Biophysics Research Group at the [University of Pretoria](https://www.up.ac.za). 
 We are based in the [Department of Physics](https://www.up.ac.za/physics) where  we use laser spectroscopy to investigate photosynthesis.
