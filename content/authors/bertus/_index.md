@@ -25,17 +25,14 @@ interests:
 - Real-time feedback-driven single-particle tracking
 - Model membranes
 
-education:
+educations:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Physics
+    institution: University of Pretoria
+    year: 2021
+  - course: Visiting Student Researcher
+    institution: Washington State University
+    year: 2022-2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
