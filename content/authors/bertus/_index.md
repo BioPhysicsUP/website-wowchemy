@@ -10,20 +10,20 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Pretoria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Single-molecule spectroscopy
+- Real-time feedback-driven single-particle tracking
+- Model membranes
 
 education:
   courses:
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:bertus.mooikloof@gmail.com'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&pli=1&user=zHeWc24AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bvanheerden
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,8 @@ user_groups:
 - PhD Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+“My research focusses on extending the current single-molecule spectroscopy setup in order to perform single-particle tracking, allowing us to study 
+freely diffusing photosynthetic proteins – in solution and eventually in a natural membrane. This is important as it brings us closer to performing 
+single-molecule experiments in vivo. I am also interested in the theoretical side of single-particle tracking, as well as the use of photon correlations 
+to study light harvesting. This includes picosecond correlations, like the quantum optical effect known as photon antibunching, as well as fluorescence 
+correlation spectroscopy, which is used to study diffusion and dynamics such as protein aggregation.”
